@@ -1,7 +1,6 @@
 2023 신촌톤의 organization을 위한 리드미 양식입니다.
 ---
 
-
 # 서비스명 블라블라
 
 <div align="center">
@@ -20,7 +19,7 @@
 
 |      김한준 <br/> **(기획/디자인)**       |          이서진 <br/> **(개발/프론트엔드)**          |       이태휘 <br/> **(개발/백엔드)**        |       한우석  <br/> **(개발/프론트엔드)**       |                                                                                                              
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55" />    |                      <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55" />    |                   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55"/>   |   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55" />    |
+|   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55" />    |                      <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55" />    |                   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55"/>   |   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a91706e5-36e8-418e-92b3-6c9abb3dfa7c" />    |
 |   깃허브 주소   |    깃허브 주소  |    깃허브 주소  |    [@wooseok123](https://github.com/wooseok123)  |
 | 연세대학교 ~~과  | 이화여대 ~~과 | 홍익대 ~~과 | 서강대 ~~과 |
 

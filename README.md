@@ -19,11 +19,12 @@
 
 |      김한준 <br/> **(기획/디자인)**       |          이서진 <br/> **(개발/프론트엔드)**          |       이태휘 <br/> **(개발/백엔드)**        |       한우석  <br/> **(개발/프론트엔드)**       |                                                                                                              
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55" />    |                      <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55" />    |                   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55"/>   |   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a91706e5-36e8-418e-92b3-6c9abb3dfa7c" />    |
-|   깃허브 주소   |    깃허브 주소  |    깃허브 주소  |    [@wooseok123](https://github.com/wooseok123)  |
-| 연세대학교 ~~과  | 이화여대 ~~과 | 홍익대 ~~과 | 서강대 ~~과 |
+|   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/19fa9325-d115-4c1d-afca-76fa0a1d1b55" />    |                      <img width="160px" src="https://avatars.githubusercontent.com/u/102040717?v=4" />    |                   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/c205c52a-c1e6-4f6b-8058-e7b4dd9afd80"/>   |   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a91706e5-36e8-418e-92b3-6c9abb3dfa7c" />    |
+|   [zhivago-kim](https://www.linkedin.com/in/zhivago-kim)   |    [529539](https://github.com/529539)  |    [THLcode](https://github.com/THLcode)  |    [@wooseok123](https://github.com/wooseok123)  |
+| 연세대학교 체육교육학  | 이화여대 컴퓨터공학 | 홍익대 컴퓨터공학 | 서강대 유럽문화학 |
 
 ## 프로젝트 소개
+
 
 **블라블라**는 ~~에 어려움을 겪고 있는 ~~를 위해 ~~ 를 제공하는 서비스입니다. 여기는 3줄 이내로 간략하게 적으면 좋아요~
 
